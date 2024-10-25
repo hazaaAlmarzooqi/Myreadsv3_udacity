@@ -23,9 +23,9 @@ To run this project locally, you need to have:
 - **npm** installed.
 
 ### Clone the repository:
-git clone https://github.com/hazaaAlmarzooqi/v3_udacity.git
+git clone https://github.com/hazaaAlmarzooqi/Myreadsv3_udacity.git
 
-cd v3_udacity
+cd Myreadsv3_udacity
 
 ### Install dependencies:
 To install all the required dependencies for the project, use
@@ -67,7 +67,6 @@ Once the development server starts, open your browser and navigate to:
 
 - **MainPage**: The homepage where users can view their books categorized into shelves.
 - **SearchBooks**: The search page where users can find new books to add to their collection.
-- **Book**: The individual book component that displays a book's details (title, author, image).
 
 ---
 
